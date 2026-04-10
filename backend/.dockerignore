@@ -1,0 +1,9 @@
+target
+uploads
+backend-run.log
+backend-run-error.log
+.env
+.git
+.gitignore
+.idea
+.vscode
