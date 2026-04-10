@@ -1,0 +1,8 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.exclusions": [
+    "frontend/node_modules/**",
+    "frontend/dist/**"
+  ],
+  "maven.terminal.useJavaHome": true
+}
